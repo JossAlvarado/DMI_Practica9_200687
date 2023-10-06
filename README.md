@@ -22,7 +22,10 @@ Este tipo de tarjetas también son muy utilizadas y lo habrás visto en algunas 
   
 ## Capturas de Pantalla de la App
 
-![Screenshot_1696617504](https://github.com/JossAlvarado/DMI_Practica9_200687/assets/84793967/9c19801e-e360-4ebe-b22a-5adcce0943a7)
+![image](https://github.com/JossAlvarado/DMI_Practica9_200687/assets/84793967/1b8fd950-8292-4b88-8e75-e4e4a75cfa66)
 
-![Screenshot_1696617511](https://github.com/JossAlvarado/DMI_Practica9_200687/assets/84793967/e3d5bc2f-0bc4-4ba6-b0c8-9eac35ec0b64)
+![image](https://github.com/JossAlvarado/DMI_Practica9_200687/assets/84793967/fd7948e3-9979-4558-873e-6b76e84c19ba)
+
+
+
 
